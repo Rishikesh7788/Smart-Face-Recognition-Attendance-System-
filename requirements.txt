@@ -1,0 +1,11 @@
+Flask
+argparse
+csv
+cv2
+face_recognition
+firebase-admin
+firebase_config
+flask_cors
+numpy
+python-dotenv
+time
