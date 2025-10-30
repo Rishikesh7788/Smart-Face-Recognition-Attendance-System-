@@ -1,4 +1,4 @@
-# ML Internship Project — Repository
+# Hackathon Project — Repository
 
 This repository contains the project files you uploaded and is prepared for a GitHub upload.
 
